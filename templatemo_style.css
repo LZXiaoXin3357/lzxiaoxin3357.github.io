@@ -147,6 +147,14 @@ img {
 
 /* end of menu*/
 
+.header_03 {
+	padding: 0 0 10px 0;
+	margin: 0 0 10px 0;
+	font-size: 26px;
+	color: #ab1010;
+	font-weight: bold;
+}
+
 .header_01 {
 	padding: 0 0 10px 0;
 	margin: 0 0 10px 0;
